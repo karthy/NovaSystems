@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class sponsorDTO {
+public class SponsorDTO {
 	
 	Integer sponsorId;
 	

@@ -11,7 +11,7 @@ import lombok.Setter;
 @Table(name ="sponsor_tbl")
 @Getter
 @Setter
-public class sponsorEntity {
+public class SponsorEntity {
 	
 	@Column(name="sponsorId")
 	Integer sponsorId;
